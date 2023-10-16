@@ -1,0 +1,18 @@
+.App { 
+	display: flex; 
+	flex-direction: column; 
+	align-items: center; 
+	background-color: #000000; 
+	height: 100vh; 
+} 
+
+#top { 
+	font-size: 27px; 
+	margin: 20px 0; 
+	color: #a60000; 
+} 
+h1 { 
+	font-size: 27px; 
+	margin:10px 0; 
+	color: #a60000; 
+} 
